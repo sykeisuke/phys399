@@ -1,0 +1,20 @@
+name: phys399
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=2.1
+  - pandas=2.2
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - scipy
+  - seaborn
+  - scikit-learn
+  - root_base  # CERN ROOT (conda-forge)
+  - pip
+  - pip:
+      - keras
+      - tensorflow
