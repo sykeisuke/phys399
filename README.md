@@ -17,8 +17,10 @@ This repository contains Python and C++ code files used in the **PHYS399 class**
 
 We use a dedicated conda environment named phys399 for this course.
 The setup script setup.sh will create and configure it for you.
-	1.	Make sure Anaconda or Miniconda is installed.
-	2.	In the project directory, run:
+
+1.	Make sure Anaconda or Miniconda is installed.
+2.	In the project directory, run:
+
    ```bash
    source setup.sh
    ```
