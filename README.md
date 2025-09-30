@@ -4,13 +4,21 @@ This repository contains Python and C++ code files used in the **PHYS399 class**
 
 ## How to Clone the Repository
 
-1. Open a terminal on your computer.
-2. Navigate to the directory where you want to clone the project.
-3. Run the following command:
+1. Make sure `git` is installed on your computer (`git --version` to check).
+2. Open a terminal on your computer.
+3. Navigate to the directory where you want to clone the project.
+4. Run the following command:
 
    ```bash
    git clone https://github.com/kyoshiha/phys399.git
    cd phys399
+   ```
+5. (If large files don’t appear) Install Git LFS once and pull them:
+
+   ```bash
+   brew install git-lfs    # on macOS (if not installed)
+   git lfs install
+   git lfs pull
    ```
 
 ## Environment Setup (Conda)
