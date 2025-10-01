@@ -54,11 +54,7 @@ class Teacher:
         print(f"Teacher: {self.name}")
         print("Courses taught:")
         for c in self.courses:
-            # if Course object, show its name; if string, show directly
-            if hasattr(c, "name"):  # check if it’s a Course object
-                print(f" - {c.name} ({c.code})")
-            else:
-                print(f" - {c}")
+            print(f"{c.code}: {c.name}")
 
 course1 = Course("Introduction to Scientific Programming", "PHYS399")
 course2 = Course("Modern Electronics for physicists", "PHYS476")
