@@ -1,6 +1,5 @@
 # --- Base class ---
 class Student:
-    # constructor
     def __init__(self, name, student_id):
         self.name = name
         self.student_id = student_id
@@ -26,8 +25,8 @@ class Student:
 class Undergraduate(Student):
     def __init__(self, name, student_id, gpa):
         """Initialize an undergraduate student with GPA."""
-        super().__init__(name, student_id)  # reuse Student initialization
-        self.gpa = gpa                      # add GPA attribute
+        super().__init__(name, student_id)
+        self.gpa = gpa
 
     def show_gpa(self):
         """Show the GPA of this undergraduate student."""
