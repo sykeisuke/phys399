@@ -9,5 +9,7 @@ int main() {
 
     cout << "Size: " << data.size() << endl;
     cout << "First: " << data[0] << endl;
+
+    return 0;
 }
 
