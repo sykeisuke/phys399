@@ -9,7 +9,7 @@ int main() {
     float pi_f = M_PI;         
     double pi_d = M_PI;        
 
-    cout << fixed << setprecision(15);
+    //cout << fixed << setprecision(15);
     cout << "M_PI (true)   = " << M_PI  << endl;
     cout << "int    pi_i   = " << pi_i  << endl;
     cout << "float  pi_f   = " << pi_f  << endl;

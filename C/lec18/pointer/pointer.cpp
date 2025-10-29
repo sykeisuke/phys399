@@ -2,12 +2,16 @@
 using namespace std;
 
 int main () {
-    int x = 10; // normal variable
-    int *p = &x; // pointer to x
-    cout << "x =" << x << endl; // prints 10
-    cout << "&x = " << &x << endl; // prints address of x
-    cout << "p = " << p << endl; // same as &x
-    cout << "*p = " << *p << endl; // value pointed by p
+    int x = 10; 
+    int* p = &x; 
+
+    cout << "x =" << x << endl; 
+    cout << "&x = " << &x << endl; 
+    cout << "p = " << p << endl; 
+    cout << "*p = " << *p << endl; 
+
+    *p = 20;
+    cout << "x (after *p = 20) = " << x << endl;
 
     return 0;
 }
