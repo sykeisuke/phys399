@@ -43,7 +43,7 @@ data = np.array([
     [0, 0, 0],  # Input (x1, x2) and expected output (t)
     [0, 1, 1],
     [1, 0, 1],
-    [1, 1, 1]
+    [1, 1, 0]
 ])
 
 # Initialize learning process

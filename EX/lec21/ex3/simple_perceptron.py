@@ -34,9 +34,9 @@ if __name__ == '__main__':
     '''
     np.random.seed(123)
     d = 2
-    N = 20
+    N = 100
 
-    mean = 3
+    mean = 10 
 
     # Generate two classes of data
     data1 = np.random.randn(N // 2, d) + np.array([0, 0])
