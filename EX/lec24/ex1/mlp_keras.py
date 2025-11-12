@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import Input, Dense
 from tensorflow.keras import optimizers
 from tensorflow.keras.initializers import RandomNormal
 
@@ -26,7 +26,7 @@ if __name__ == '__main__':
     2. Model building
     '''
     model = Sequential([
-        tf.keras.Input(shape=(2,)),
+        Input(shape=(2,)),
         Dense(3, activation='sigmoid'),
         Dense(1, activation='sigmoid')
     ])

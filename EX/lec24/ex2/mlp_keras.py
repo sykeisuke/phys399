@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import Input, Dense
 from tensorflow.keras import optimizers
 from tensorflow.keras.initializers import RandomNormal
 
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     2. Model building
     '''
     model = Sequential([
-        keras.Input(shape=(1,)),
+        Input(shape=(1,)),
         Dense(20, activation='tanh'),
         Dense(1, activation='linear')
     ])
