@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras import datasets
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 
 import matplotlib.pyplot as plt
 
@@ -14,7 +14,8 @@ if __name__ == '__main__':
     '''
     mnist = datasets.mnist
     (x_train, t_train), (x_test, t_test) = mnist.load_data()
-    # Use 2D input for CNN
+
+    # Use 2D input for CNN (batch_size, height, width, channels)
     x_train = (x_train.astype('float32') / 255.0).reshape(-1, 28, 28, 1)
     x_test  = (x_test.astype('float32')  / 255.0).reshape(-1, 28, 28, 1)
     t_train = np.eye(10)[t_train].astype(np.float32)
@@ -24,7 +25,7 @@ if __name__ == '__main__':
     2. Model building
     '''
     model = Sequential([
-        tf.keras.Input(shape=(28, 28, 1)),
+        Input(shape=(28, 28, 1)),
         Conv2D(32, kernel_size=3, activation='relu'),   # 28x28 -> 26x26x32
         MaxPooling2D(pool_size=2),                      # 26x26x32 -> 13x13x32
         Conv2D(64, kernel_size=3, activation='relu'),   # 13x13 -> 11x11x64

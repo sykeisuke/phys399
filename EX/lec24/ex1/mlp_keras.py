@@ -27,7 +27,7 @@ if __name__ == '__main__':
     '''
     model = Sequential([
         Input(shape=(2,)),
-        Dense(3, activation='sigmoid'),
+        Dense(3, activation='tanh'),
         Dense(1, activation='sigmoid')
     ])
 
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     '''
     optimizer = optimizers.SGD(learning_rate=0.1)
     model.compile(optimizer=optimizer, loss='binary_crossentropy', metrics=['accuracy'])
-    model.fit(x_train, t_train, epochs=1000, batch_size=10, verbose=1)
+    model.fit(x_train, t_train, epochs=500, batch_size=10, verbose=1)
 
     '''
     4. Model evaluation

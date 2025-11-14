@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras import datasets
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import Input, Dense
 
 import matplotlib.pyplot as plt
 
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     2. Model building
     '''
     model = Sequential([
-        tf.keras.Input(shape=(784,)),
+        Input(shape=(784,)),
         Dense(200, activation='tanh'),
         Dense(200, activation='tanh'),
         Dense(10, activation='softmax')
