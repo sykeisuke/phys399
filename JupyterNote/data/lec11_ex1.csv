@@ -1,0 +1,143 @@
+Course code,Title,Credits,Instructor,Days,Time,Room,Capacity,Semester
+PHYS 100,Survey of Physics,3,C E Junkermeier,TR,3:00-4:15; 3:00-4:15,WAT 420,38/67,Fall 2025
+PHYS 100L,Survey of Physics Laboratory,1,A Bayyari,M,2:30-5:20,WAT 415,22/22,Fall 2025
+PHYS 100L,Survey of Physics Laboratory,1,A Bayyari,F,2:30-5:20,WAT 415,19/20,Fall 2025
+PHYS 151,College Physics,3,M A Nassir,MWF,9:30-10:20,PHYSCI 217,145/170,Fall 2025
+PHYS 151,College Physics,3,M A Nassir,MWF,10:30-11:20,PHYSCI 217,167/170,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,11:30-2:20,PHYSCI 108,21/21,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,11:30-2:20,PHYSCI 110,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,2:30-5:20,PHYSCI 108,19/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,5:30-8:20,PHYSCI 108,21/21,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,9:00-11:50,PHYSCI 108,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 110,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 108,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,W,11:30-2:20,PHYSCI 108,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,W,2:30-5:20,PHYSCI 108,16/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,9:00-11:50,PHYSCI 108,21/21,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 108,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 108,18/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 110,20/20,Fall 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 108,19/20,Fall 2025
+PHYS 152,College Physics,3,Z Li,MWF,12:30-1:20,PHYSCI 217,87/211,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,M,1:30-4:20,PHYSCI 111,16/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,T,9:00-11:50,PHYSCI 111,18/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 111,17/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 111,19/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,W,1:30-4:20,PHYSCI 111,18/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,9:00-11:50,PHYSCI 111,10/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 111,18/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 111,14/20,Fall 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,M,4:30-7:20,PHYSCI 111,11/20,Fall 2025
+PHYS 170,General Physics I,4,C E Junkermeier,MTWF,9:30-10:20,WAT 420,57/66,Fall 2025
+PHYS 170,General Physics I,4,C E Junkermeier,MTWF,10:30-11:20,WAT 420,66/66,Fall 2025
+PHYS 170,General Physics I,4,C E Junkermeier,MTWF,12:30-1:20,WAT 420,66/66,Fall 2025
+PHYS 170A,General Physics I,4,O V Dvornikov,MW,10:30-12:20,MSB 307,16/20,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,M,2:30-5:20,PHYSCI 110,21/21,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 110,22/22,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,W,12:30-3:20,PHYSCI 110,20/20,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,W,3:30-6:20,PHYSCI 110,21/21,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,R,9:00-11:50,PHYSCI 110,20/20,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,M,5:30-8:20,PHYSCI 110,21/21,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 110,20/20,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,W,5:30-8:20,PHYSCI 108,20/20,Fall 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,T,9:00-11:50,PHYSCI 110,17/20,Fall 2025
+PHYS 272,General Physics II,3,O V Dvornikov,TWR,9:00-10:15,WAT 112; WAT 112,66/66,Fall 2025
+PHYS 272,General Physics II,3,O V Dvornikov,WTR,10:30-11:45,WAT 112; WAT 112,65/66,Fall 2025
+PHYS 272A,General Physics II,3,O V Dvornikov,MW,2:00-3:15,MSB 307,11/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,M,1:30-4:20,PHYSCI 112,20/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 112,20/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 112,20/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,W,10:30-1:20,PHYSCI 112,20/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,W,1:30-4:20,PHYSCI 112,17/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 112,20/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,W,10:30-1:20,PHYSCI 111,18/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 112,19/20,Fall 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,M,4:30-7:20,PHYSCI 112,19/20,Fall 2025
+PHYS 274,General Physics III,3,T Browder,TR,3:00-4:15,PHYSCI 217,55/120,Fall 2025
+PHYS 305,Computational Physics,4,P W Gorham,MW,1:30-3:20,WAT 415A,10/12,Fall 2025
+PHYS 310,Theoretical Mechanics,3,D A Rubin,MW,10:00-11:15,HOLM 243,27/30,Fall 2025
+PHYS 350,Electricity and Magnetism,3,E Szarmes,TR,10:30-11:45,MSB 307,22/25,Fall 2025
+PHYS 399,Introduction to Scientific Programming,3,K Yoshihara,MW,1:30-3:20,KUY 213,7/20,Fall 2025
+PHYS 399,Introductory Course to Accelerators,3,S Li,MW,1:30-2:45,KUY 302,4/20,Fall 2025
+PHYS 400,Appl of Math in Physical Sci,3,C A Vause,MWF,11:30-12:20,WAT 114,13/25,Fall 2025
+PHYS 440,Solid State Physics I,3,K D Sattler,MWF,1:30-2:20,WAT 113,3/20,Fall 2025
+PHYS 475,Electronics for Physicists,4,P M Lewis,TR,1:30-4:50,WAT 415A,8/12,Fall 2025
+PHYS 480,Quantum Mechanics I,3,S E Vahsen,MWF,12:30-1:20,WAT 114,16/30,Fall 2025
+PHYS 480L,Advanced Physics Lab I,2,J G Learned,T,12:00-2:50,WAT 221,3/15,Fall 2025
+PHYS 480L,Advanced Physics Lab I,2,J G Learned,W,1:30-4:20,WAT 221,1/15,Fall 2025
+PHYS 610,Analytical Mechanics,3,J A Sakstein,R,10:30-11:20,WAT 417A,9/15,Fall 2025
+PHYS 650,Electrodynamics I,3,C A Vause,MWF,9:30-10:20,WAT 417A,8/15,Fall 2025
+PHYS 670,Quantum Mechanics,3,J P Kumar,TR,9:00-10:15,WAT 114,17/17,Fall 2025
+PHYS 690,Seminar,1,J G Learned,R,3:00-4:30,WAT 112,7/15,Fall 2025
+PHYS 696,Sem on Elem Particle Physics,1,D M Marfatia,T,3:00-4:30,WAT 112,2/15,Fall 2025
+PHYS 730,Statistical Physics I,3,S Still,F,12:30-3:00,WAT 417A,6/15,Fall 2025
+PHYS 777,Nuclear & Particle Physics I,3,D M Marfatia,TR,9:00-10:15,WAT 417,3/15,Fall 2025
+PHYS 100,Survey of Physics,3,C E Junkermeier,MWF,1:30-2:20,WAT 112,40/67,Spring 2025
+PHYS 100L,Survey of Physics Laboratory,1,O F Ramadan,M,2:30-5:20,WAT 415,19/20,Spring 2025
+PHYS 100L,Survey of Physics Laboratory,1,O F Ramadan,F,2:30-5:20,WAT 415,15/20,Spring 2025
+PHYS 151,College Physics,3,M A Nassir,MWF,9:30-10:20,PHYSCI 217,128/140,Spring 2025
+PHYS 151,College Physics,3,M A Nassir,MWF,10:30-11:20,PHYSCI 217,101/140,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,10:30-1:20,PHYSCI 108,20/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,1:30-4:20,PHYSCI 108,14/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,9:00-11:50,PHYSCI 108,18/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,M,4:30-7:20,PHYSCI 108,18/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 108,18/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,W,10:30-1:20,PHYSCI 108,8/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,W,4:30-7:20,PHYSCI 108,12/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,W,1:30-4:20,PHYSCI 108,14/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 108,18/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 108,19/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 108,15/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 110,17/20,Spring 2025
+PHYS 151L,College Physics Laboratory I,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 110,13/20,Spring 2025
+PHYS 152,College Physics,3,O V Dvornikov,MWF,11:30-12:20,PHYSCI 217,100/100,Spring 2025
+PHYS 152,College Physics,3,O V Dvornikov,MWF,12:30-1:20,PHYSCI 217,59/100,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,M,1:30-4:20,PHYSCI 111,19/20,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 111,21/21,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,9:00-11:50,PHYSCI 111,18/20,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,9:00-11:50,PHYSCI 112,17/20,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 111,20/20,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 111,20/20,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,T,9:00-11:50,PHYSCI 111,20/20,Spring 2025
+PHYS 152L,College Physics Laboratory II,1,P A Von Doetinchem,W,1:30-4:20,PHYSCI 111,19/20,Spring 2025
+PHYS 170,General Physics I,4,C E Junkermeier,MTWF,9:30-10:20,WAT 420,67/67,Spring 2025
+PHYS 170,General Physics I,4,C E Junkermeier,MTWF,10:30-11:20,WAT 420,66/67,Spring 2025
+PHYS 170,General Physics I,4,K D Sattler,MTWF,12:30-1:20,WAT 420,67/67,Spring 2025
+PHYS 170A,General Physics I,4,P M Lewis,F; MW,9:30-11:20; 9:30-10:20,WAT 415; WAT 415,16/20,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,M,12:30-3:20,PHYSCI 110,21/21,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,M,3:30-6:20,PHYSCI 110,22/22,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,T,9:00-11:50,PHYSCI 110,18/20,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 110,21/21,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,W,12:30-3:20,PHYSCI 110,20/20,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,R,9:00-11:50,PHYSCI 110,21/21,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 110,22/22,Spring 2025
+PHYS 170L,General Physics I Laboratory,1,P A Von Doetinchem,W,3:30-6:20,PHYSCI 110,21/21,Spring 2025
+PHYS 272,General Physics II,3,O V Dvornikov,TR,9:00-10:15,WAT 112,60/67,Spring 2025
+PHYS 272,General Physics II,3,O V Dvornikov,TR,10:30-11:45,WAT 112,61/67,Spring 2025
+PHYS 272,General Physics II,3,D M Farrah,MWF,8:30-9:20,ONLINE,35/67,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,M,1:30-4:20,PHYSCI 112,18/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,T,12:00-2:50,PHYSCI 112,17/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,T,3:00-5:50,PHYSCI 112,15/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,W,10:30-1:20,PHYSCI 112,18/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,W,1:30-4:20,PHYSCI 112,18/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,R,12:00-2:50,PHYSCI 112,20/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,R,3:00-5:50,PHYSCI 112,19/20,Spring 2025
+PHYS 272L,General Physics II Laboratory,1,P A Von Doetinchem,M,4:30-7:20,PHYSCI 112,19/20,Spring 2025
+PHYS 274,General Physics III,3,J Maricic,TR,10:30-11:45,BIL 150,79/120,Spring 2025
+PHYS 274L,General Physics III Laboratory,2,M A Nassir,MW,3:30-5:20,WAT 114,17/20,Spring 2025
+PHYS 305,Computational Physics,4,S Li,M; W,1:30-3:20; 1:30-3:20,KELL 314; KELL 314,18/20,Spring 2025
+PHYS 311,Theoretical Mechanics II,3,D A Rubin,TR,10:30-11:45,BIL 319A,20/25,Spring 2025
+PHYS 430,Thermodynamics & Stat Mechanic,3,C A Vause,MWF,9:30-10:20,WAT 114,4/25,Spring 2025
+PHYS 450,Electromagnetic Waves,3,E Szarmes,TR,9:00-10:15,MSB 307,16/25,Spring 2025
+PHYS 476,Modern Electronics for Physicists,3,K Yoshihara,R; T,1:30-3:20; 1:30-4:50,WAT 415A; WAT 415A,6/8,Spring 2025
+PHYS 481,Quantum Mechanics II,3,T Browder,TR; F,12:00-1:15; 3:30-4:20,WAT 114; WAT 114,7/30,Spring 2025
+PHYS 481L,Advanced Physics Lab II,2,J G Learned,T,1:30-4:20,WAT 221,3/6,Spring 2025
+PHYS 481L,Advanced Physics Lab II,2,J G Learned,W,1:30-4:20,WAT 221,0/6,Spring 2025
+PHYS 485,Prof Ethics for Physicists,1,P W Gorham,F,12:30-1:20,WAT 417A,7/8,Spring 2025
+PHYS 490,Modern Physics,3,S E Vahsen,TR,1:30-2:45,WAT 113,10/15,Spring 2025
+PHYS 651,Electrodynamics II,3,C A Vause,MWF,11:30-12:20,WAT 417A,9/15,Spring 2025
+PHYS 671,Quantum Mechanics,3,D M Marfatia,T; R,9:00-10:15; 9:00-10:15,WAT 417A,5/15,Spring 2025
+PHYS 690,Seminar,1,J G Learned,R,3:00-4:30,WAT 112,3/15,Spring 2025
+PHYS 696,Sem on Elem Particle Physics,1,J P Kumar,T,3:00-4:30,WAT 420,3/15,Spring 2025
+PHYS 731,Statistical Physics II,3,S Still,F,12:30-3:00,BIL 319A,6/15,Spring 2025
+PHYS 773,Quantum Field Theory II,3,J P Kumar,MW,10:00-11:15,WAT 417A,5/8,Spring 2025
