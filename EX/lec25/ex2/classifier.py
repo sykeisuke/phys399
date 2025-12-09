@@ -88,7 +88,6 @@ if __name__ == '__main__':
     '''
     plt.figure(figsize=(8,4))
     plt.plot(history.history['loss'], label='train loss')
-    plt.plot(history.history.get('val_loss', []), label='val loss')
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
     plt.legend()
@@ -96,7 +95,6 @@ if __name__ == '__main__':
 
     plt.figure(figsize=(8,4))
     plt.plot(history.history['accuracy'], label='train acc')
-    plt.plot(history.history.get('val_accuracy', []), label='val acc')
     plt.xlabel('Epoch')
     plt.ylabel('Accuracy')
     plt.legend()
