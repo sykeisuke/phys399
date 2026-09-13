@@ -13,13 +13,8 @@ This repository contains Python and C++ code files used in the **PHYS399 class**
    git clone https://github.com/sykeisuke/phys399.git
    cd phys399
    ```
-5. (If large files don’t appear) Install Git LFS once and pull them:
 
-   ```bash
-   brew install git-lfs    # on macOS (if not installed)
-   git lfs install
-   git lfs pull
-   ```
+**Note:** The final-project dataset files are not stored in this repository due to their size. Please see `Proj/final_project/leptonID_dataset/README.md` for instructions on downloading them from Google Drive.
 
 ## Environment Setup (Conda)
 
