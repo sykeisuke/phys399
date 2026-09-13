@@ -14,8 +14,6 @@ This repository contains Python and C++ code files used in the **PHYS399 class**
    cd phys399
    ```
 
-**Note:** The final-project dataset files are not stored in this repository due to their size. Please see `Proj/final_project/leptonID_dataset/README.md` for instructions on downloading them from Google Drive.
-
 ## Environment Setup (Conda)
 
 We use a dedicated conda environment named phys399 for this course.
