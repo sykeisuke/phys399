@@ -43,7 +43,7 @@ class Teacher:
     def __init__(self, name):
         """Initialize teacher with a name and an empty course list."""
         self.name = name
-        self.courses: list[Courses] = []
+        self.courses: list[Course] = []
 
     def add_course(self, course: Course):
         """Add a course (string or Course object) to this teacher."""
